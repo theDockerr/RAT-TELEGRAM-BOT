@@ -1,5 +1,6 @@
 
 ESPAÑOL
+### Descargate el repositorio y posteriormente descomprimelo y descomprime un archivo y directamente tendras la carpeta con el ejecutable
 Telegram RAT: Guía de Uso Ético
 ### 1. Crear el Bot en Telegram
 1. Abre Telegram y busca el bot llamado **BotFather**.
@@ -17,7 +18,7 @@ Requiere el token del bot, el ID de usuario y la ruta de PyInstaller para crear 
 (.exe).
 Este proyecto debe ser utilizado de manera ética y responsable. Su uso no autorizado es un acto
 ilegal. Si se utiliza de forma incorrecta, es responsabilidad del usuario.
-
+### Download the repository and then extract it. After extracting, you will find a folder with the executable file.
 Telegram RAT: Ethical Usage Guide
 
 ### 1. Create the Bot on Telegram
