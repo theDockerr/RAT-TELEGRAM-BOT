@@ -5,7 +5,7 @@
 
 El archivo es demasiado grande para ser almacenado directamente en GitHub. Puedes descargarlo desde MEGA siguiendo este enlace:
 
-🔗 Descargar desde MEGA
+🔗 Descargar desde => MEGA https://mega.nz/file/vlwExDLL#mEwuoJDGHgYxtRrRKlhT1uH61grHf5hjyhkiwcgIHOg
 
 Una vez descargado, sigue estos pasos:
 
@@ -46,9 +46,9 @@ Este proyecto debe ser utilizado de manera ética y responsable. Su uso no autor
 
 The file is too large to be stored directly on GitHub. You can download it from MEGA using the following link:
 
-🔗 Download from MEGA
+🔗 Download from MEGA => https://mega.nz/file/vlwExDLL#mEwuoJDGHgYxtRrRKlhT1uH61grHf5hjyhkiwcgIHOg
 
-Once downloaded, follow these steps:
+Once downloaded, follow these steps: 
 
 Extract the downloaded file.
 
