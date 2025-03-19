@@ -5,7 +5,7 @@
 
 El archivo es demasiado grande para ser almacenado directamente en GitHub. Puedes descargarlo desde MEGA siguiendo este enlace:
 
-🔗 Descargar desde => MEGA https://mega.nz/file/vlwExDLL#mEwuoJDGHgYxtRrRKlhT1uH61grHf5hjyhkiwcgIHOg
+🔗 Descargar desde MEGA => https://mega.nz/file/vlwExDLL#mEwuoJDGHgYxtRrRKlhT1uH61grHf5hjyhkiwcgIHOg
 
 Una vez descargado, sigue estos pasos:
 
